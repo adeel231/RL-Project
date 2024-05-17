@@ -1,0 +1,1 @@
+This project implements a reinforcement learning algorithm using OpenAI Gym and Stable Baselines. The focus is on training an agent to solve a control problem using Deep Q-Learning (DQN). It includes environment setup, reward function design, and policy optimization.
